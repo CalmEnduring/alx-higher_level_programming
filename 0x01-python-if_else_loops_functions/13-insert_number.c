@@ -39,7 +39,7 @@ listint_t *insert_node(listint_t **head, int number)
 			}
 			/* insert number */
 			temp = curr->next;
-			curr->next =nn;
+			curr->next = nn;
 			nn->next = temp;
 		}
 		return (*head);
