@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-import sys
+from sys import argv
 if __name__ == "__main__":
     
-    sa = sys.argv
+    sa = argv
     larg = len(sa)
     sum = 0
 
