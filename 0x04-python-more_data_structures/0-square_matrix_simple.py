@@ -1,6 +1,5 @@
 #!/usr/bin/python
 def square_matrix_simple(matrix=[]):
-
     new_matrix = []
 
     if len(matrix) > 0:
