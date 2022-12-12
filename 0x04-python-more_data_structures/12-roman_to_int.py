@@ -10,7 +10,7 @@ def roman_to_int(roman_string):
 
     number = 0
     last_num = 0
-    
+
     for let in roman_string:
         for el in romlet:
             if let == el[0]:
