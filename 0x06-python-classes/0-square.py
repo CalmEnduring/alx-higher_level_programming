@@ -1,6 +1,9 @@
 #!/usr/bin/python3
-"""Square Class
-An empty class with that does nothing for now
+"""Square module
+This is a module with an example class
 """
 class Square:
+    """Square Class
+    An empty class that does nothing for now
+    """
     pass
