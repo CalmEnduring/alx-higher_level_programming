@@ -99,5 +99,5 @@ class Square:
             else:
                 print('#', end='')
 
-        if j % self.__size == 0 and j > 0:
-            print()
+            if j % self.__size == 0 and j > 0:
+                print()
