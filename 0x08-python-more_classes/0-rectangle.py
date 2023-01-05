@@ -3,5 +3,7 @@
 
 a class definition
 """
+
+
 class Rectangle:
     pass
