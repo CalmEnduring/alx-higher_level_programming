@@ -110,4 +110,4 @@ class Rectangle:
         r2a = rect_2.area()
 
         if r1a >= r2a:
-            return r1a
+            return (rect_1)
