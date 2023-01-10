@@ -4,7 +4,7 @@
 
 def is_same_class(obj, a_class):
     """a function that checks whether an object belongs to a class"""
-    if isinstance(object, a_class) is True:
+    if type(obj) == a_class:
         return True
-    else:
-        return False
+
+    return False
