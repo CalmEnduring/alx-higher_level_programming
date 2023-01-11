@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-from json import loads
 """a module to convert json to string"""
+
+
+from json import loads
 
 
 def from_json_string(my_str):
